@@ -118,7 +118,7 @@ aria-haspopup="true" aria-expanded="false">
 <div class="main-responsive-menu">
 <div class="logo">
 <a href="index.php">
-<img height="63px" width="186px" src="assets/img/logo.png" alt="logo">
+<img height="63" width="186" src="assets/img/logo.png" alt="logo">
 </a>
 </div>
 </div>
