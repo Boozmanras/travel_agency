@@ -128,7 +128,7 @@ aria-haspopup="true" aria-expanded="false">
 <div class="container">
 <nav class="navbar navbar-expand-md navbar-light">
 <a class="navbar-brand" href="index.php">
-<img src="assets/img/logo.png" alt="logo">
+<img src="assets/img/logo1.png" alt="logo">
 </a>
 <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
 <ul class="navbar-nav">
